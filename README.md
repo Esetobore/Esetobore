@@ -27,7 +27,7 @@
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-    <a href="https://github.com/briocodes"><img alt="Esetobore Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Esetobore&show_icons=true&count_private=true&theme=gotham&hide_border=true&include_all_commits=true" height="192px"/></a>
+    <a href="https://github.com/Esetobore"><img alt="Esetobore Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Esetobore&show_icons=true&count_private=true&theme=gotham&hide_border=true&include_all_commits=true" height="192px"/></a>
   </details>
 
 
