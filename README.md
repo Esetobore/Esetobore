@@ -9,9 +9,9 @@
   <a href="https://github.com/Esetobore"><img src="https://readme-typing-svg.herokuapp.com/?lines=MOBILE%20SOFTWARE%20DEVELOPER;ANDROID%20DEVELOPER&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <a href= "https://github.com/Esetobore" target="_blanc"> <img src="" height="130" width="100%"/> </a>
-</p>
+</p> -->
 
 ### Hello, My name is Esetobore.
 
