@@ -22,15 +22,11 @@
 * Fun fact: I Love anime a through weeb!
 * You can see My Resume in the Repo Below.
 
-### Github stats
-
-
+<!-- ### Github stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
     <a href="https://github.com/Esetobore"><img alt="Esetobore Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Esetobore&count_private=true&theme=tokyonight&showicons=true"/></a>
-    
-
-</details>
+</details> -->
 
 
 <h3 align="left">Connect with me:</h3>
