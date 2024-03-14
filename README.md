@@ -15,9 +15,9 @@
 
 ### Hello, My name is Esetobore.
 
-* An enthusiastic Software Engineer, specialized in **Mobile Development**, with a passion for building scalable Mobile Apps.
+* An enthusiastic Software Engineer, specializing in **Mobile Development**, with a passion for building scalable Mobile Apps.
 
-* Mostly working with Kotlin • Flutter • Android.
+* Mostly working with Flutter • Android • Kotlin.
 * Passionate about learning new concepts and working with amazing people. 
 * Fun fact: I Love anime a through weeb!
 * You can see My Resume in the Repo Below.
