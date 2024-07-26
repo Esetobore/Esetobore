@@ -20,7 +20,6 @@
 * Mostly working with Flutter • Android • Kotlin.
 * Passionate about learning new concepts and working with amazing people. 
 * Fun fact: I Love anime a through weeb!
-* You can see My Resume in the Repo Below.
 
 <!-- ### Github stats
 <details> 
