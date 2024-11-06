@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Esetobore"><img src="https://readme-typing-svg.herokuapp.com/?lines=MOBILE%20SOFTWARE%20DEVELOPER;CROSS-PLATFORM%20DEVELOPER&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
+  <a href="https://github.com/Esetobore"><img src="https://readme-typing-svg.herokuapp.com/?lines=MOBILE%20SOFTWARE%20DEVELOPER;&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
 </p>
 
 <!-- <p align = "center">
@@ -45,3 +45,9 @@
 <a href="https://www.figma.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma" width="40" height="40"/></a>
 </p>
 
+<br clear="both">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=esetobore&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
