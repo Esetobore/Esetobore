@@ -47,7 +47,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=esetobore&theme=transparent&hide_current_streak=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=esetobore&theme=transparent&hide_current_streak=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
