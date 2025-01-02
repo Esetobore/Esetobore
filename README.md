@@ -18,13 +18,6 @@
 * Passionate about learning new concepts and working with amazing people. 
 * Fun fact: I Love anime, reading manga & Manhwa!
 
-### Github stats
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-    <a href="https://github.com/Esetobore"><img alt="Esetobore Github Stats" src="https://github-readme-stats.vercel.app/api/?username=esetobore&count_private=true&theme=tokyonight&showicons=true"/></a>
-</details> 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Esetobore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esetobore" height="30" width="40" /></a>
