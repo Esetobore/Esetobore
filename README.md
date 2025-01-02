@@ -45,9 +45,9 @@
 <a href="https://www.figma.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma" width="40" height="40"/></a>
 </p>
 
-<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=esetobore&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=esetobore&theme=transparent&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
