@@ -6,22 +6,24 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Esetobore"><img src="https://readme-typing-svg.herokuapp.com/?lines=MOBILE%20SOFTWARE%20DEVELOPER;&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
+  <a href="https://github.com/Esetobore"><img src="https://readme-typing-svg.herokuapp.com/?lines=MOBILE%20APP%20DEVELOPER;&font=sans-serif&color=44e3a6&center=true&width=400&height=50&vCenter=true&size=22"></a>
 </p>
 
 
 ### Hello, My name is Esetobore.
 
-* An enthusiastic Software Engineer, specializing in **Mobile Development**, with a passion for building cool Mobile Apps.
+* An enthusiastic Software developer, specializing in **Mobile App Development**.
 
-* Mostly working with Flutter • Android • Kotlin.
+* Mostly working with Flutter/Dart • Android • iOS.
 * Passionate about learning new concepts and working with amazing people. 
-* Fun fact: I Love anime, reading manga & Manhwa!
+* Fun fact: I Love anime, reading manga & manhwa!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Esetobore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esetobore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esetobore-akpokiniovo" target="blank"><img align="center" src="https://clipground.com/images/linkedin-clipart-5.jpg" alt="Esetobore" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
