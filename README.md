@@ -20,7 +20,7 @@
 
 ---
 
-# ⚡ Tech Stack
+# 🧰 Dev Toolbelt
 
 <div align="center">
 
@@ -31,23 +31,25 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Android%20Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
 <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Clarity-111111?style=for-the-badge&logo=microsoft&logoColor=00A4EF"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-111111?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Android%20Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
 
 </div>
 
